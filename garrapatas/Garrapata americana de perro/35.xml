@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Garrapata americana de perro</folder>
+	<filename>35.jpeg</filename>
+	<path>D:\Program Files\Escuela\6tosemestre\AI\proyecto_finalIA\garrapatas\Garrapata americana de perro\35.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garrapata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>323</ymin>
+			<xmax>560</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>
